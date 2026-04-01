@@ -137,3 +137,4 @@ if __name__ == "__main__":
     
     print(f"Generated {W}x{H} Maze:")
     print_maze_solid(test_grid, W, H)
+    print(test_grid)
